@@ -1,0 +1,68 @@
+body {
+    background-color: #A2B5A3;
+    border-width: 0;
+    margin: 0;
+    padding: 0;
+}
+#biography {
+    background-color: #577569;
+    border: 2px #003300;
+    padding: 10px;
+    border-radius: 25px;
+}
+h1 {
+    text-align: center;
+}
+#port, #bio {
+    font-family: 'Bebas Neue', cursive;
+}
+#title {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h4 {
+    font-family: 'IBM Plex Mono', monospace;
+}
+.projlink {
+    font-family: 'Cardo', serif;
+}
+
+p {
+    font-family: 'Joan', serif;
+    font-size: 20px;
+}
+
+img {
+    border: 2px #003300;
+    padding: 10px;
+    border-radius: 25px;
+    width: 50%;
+    height: auto;
+}
+
+#bio {
+    border: 2px #003300;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.projImg {
+    width: auto;
+    height: auto;
+}
+
+.proj {
+    border-color: #577569;
+    border-width: 2px;
+    border-style: outset;
+    display:inline-block;
+    padding: 53px;
+    margin: 20px;
+    text-align: center;
+}
+
+#portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
